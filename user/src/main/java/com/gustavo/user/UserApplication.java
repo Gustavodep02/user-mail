@@ -11,4 +11,3 @@ public class UserApplication {
 	}
 
 }
-//DB_USERNAME=postgres;DB_PASSWORD=gustavocj2
